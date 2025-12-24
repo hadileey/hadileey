@@ -1,37 +1,125 @@
+<div align="center">
+ 
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Hadil;Flutter+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm Hadil</h1>
+  <!-- Profile Views Badge with Custom Style -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=hadileey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="hadileey" />
+  </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hadileey&label=Profile%20views&color=0e75b6&style=flat" alt="nxt-stark" /> </p>
+  <!-- Intro Text -->
+  <h3>👨‍💻 About Me</h3>
+</div>
 
-
-
-- 🌱 I’m currently learning **Flutter & MERN Stack**
-
-- 👨‍💻 All of my projects are available at [Here](https://github.com/hadileey)
-
-- 📫 How to reach me **hadilkk63@gmail.com**
-
-<p align="center">
-<a href="https://twitter.com/nxt_stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nxt_stark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hadil-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadil-ibrahim" height="30" width="40" /></a>
-<a href="https://fb.com/nxtstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nxtstark" height="30" width="40" /></a>
-<a href="https://instagram.com/hadileey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadileey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/htechmediayt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="htechmediayt" height="30" width="40" /></a>
+<p align="center"> 
+  I'm a passionate developer currently focusing on <b>Mobile App Development</b> and <b>Full Stack Web</b>. I love turning complex problems into beautiful, intuitive interface designs.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp; <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> &nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>&nbsp;  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> &nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp; <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp; <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp; <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>&nbsp; <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>&nbsp; <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-xd-icon.png" alt="xd" width="40" height="40"/> </a> </p>
+<div align="center">
 
+| 🌱 Learning | 🔭 Working on | 📫 Contact |
+|:---:|:---:|:---:|
+| **Flutter & MERN** | **Open Source** | **[hadilkk63@gmail.com](mailto:hadilkk63@gmail.com)** |
 
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadileey&show_icons=true&locale=en&layout=compact&theme=dark" alt="hadileey" style="width: 400px;height:170px;" /></p>
+---
 
-<p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadileey&show_icons=true&locale=en&theme=dark" alt="hadileey"  style="width: 400px;"/>
+<div align="center"> 
+  <h3>🛠️ Tech Stack & Tools</h3>
+</div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadileey&theme=dark" alt="hadileey"  style="width: 420px;"/>
-</p>
+<!-- Tech Stack Badges -->
+<div align="center">
+
+<!-- Mobile & Frameworks -->
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+
 <br>
-<p align="center"><a href="https://www.buymeacoffee.com/hadilkk638"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hadilkk638" /></a></p><br><br>
 
-#### Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia) 
+<!-- Languages -->
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br>
+
+<!-- Backend & DB -->
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+<br>
+
+<!-- Design -->
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
+<img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+</div>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/hadileey">
+    <img src="https://github-readme-stats.vercel.app/api?username=hadileey&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  </a>
+  
+  <!-- Top Languages -->
+  <a href="https://github.com/hadileey">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadileey&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <!-- Streak Stats (UPDATED DOMAIN) -->
+  <img src="https://streak-stats.demolab.com?user=hadileey&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Connect With Me</h3>
+  
+  <a href="https://twitter.com/nxt_stark" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/hadil-ibrahim" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/hadileey" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://fb.com/nxtstark" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+   <a href="https://youtube.com/@htechmedia" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/hadilkk638">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
+  </a>
+  <br><br>
+  <sub>Made with ❤️ by <a href="https://telegram.dog/HTechMedia">@HTechMedia</a></sub>
+</div>
