@@ -13,7 +13,7 @@
 </div>
 
 <p align="center"> 
-  I'm a passionate developer currently focusing on <b>Mobile App Development</b> and <b>Full Stack Web</b>. I love turning complex problems into beautiful, intuitive interface designs.
+  I'm a passionate developer currently focusing on <b>Mobile App Development</b> and <b>Full Stack Web</b>. <br>I love turning complex problems into beautiful, intuitive interface designs.
 </p>
 
 <div align="center">
