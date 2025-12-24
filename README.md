@@ -99,6 +99,8 @@
   <img src="https://streak-stats.demolab.com?user=hadileey&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
 </div>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hadileey)](https://git.io/streak-stats)
 ---
 
 <div align="center">
