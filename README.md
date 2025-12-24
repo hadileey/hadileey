@@ -75,21 +75,15 @@
 </div>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/hadileey">
-    <img src="https://github-readme-stats.vercel.app/api?username=hadileey&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  </a>
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/hadileey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadileey&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-  </a>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=hadileey&show_icons=true&locale=en&theme=tokyonight&bg_color=0D1117" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadileey&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0D1117" height="150" alt="languages graph" />
+  </p>
 </div>
 
 <div align="center">
-  <br>
-  <!-- Streak Stats (UPDATED DOMAIN) -->
-  <img src="https://streak-stats.demolab.com?user=hadileey&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
+  <!-- Streak Stats (Updated Domain) -->
+  <img src="https://streak-stats.demolab.com?user=hadileey&theme=tokyonight&background=0D1117" height="150" alt="streak graph" />
 </div>
 
 ---
