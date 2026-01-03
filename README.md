@@ -10,6 +10,15 @@
 
   <!-- Intro Text -->
   <h3>👨‍💻 About Me</h3>
+
+  <!-- EDUCATION SECTION START (Next Level Style) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Degree-B.E.%20CSE-FFD700?style=for-the-badge&logo=bookstack&logoColor=black" />
+    <img src="https://img.shields.io/badge/Year-2nd%20Year-20C20E?style=for-the-badge&logo=google-calendar&logoColor=white" />
+    <br>
+    <kbd><b>🏛️ Kalaignar Karunanidhi Institute of Technology</b></kbd>
+  </p>
+  <!-- EDUCATION SECTION END -->
 </div>
 
 <p align="center"> 
@@ -121,5 +130,5 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
   </a>
   <br><br>
-  <sub>Made with ❤️ by <a href="https://telegram.dog/HTechMedia">@HTechMedia</a></sub>
+  <sub>Made with ❤️ by <a href="https://telegram.dog/NxtStark">@hadileey</a></sub>
 </div>
