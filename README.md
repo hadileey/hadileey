@@ -85,19 +85,19 @@
 
 <div align="center">
   <p>
-    <!-- CHANGED: 'blob' to 'raw.githubusercontent.com' and removed '/blob/' -->
-    <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="700px"/>
+    <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/swift/0-profile-details.svg" alt="Profile Details" width="700px"/>
   </p>
   
   <p>
-    <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages"  width="348"/>
-    <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats"  width="348px"/>
+    <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/swift/2-most-commit-language.svg" alt="Top Languages"  width="348"/>
+    <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/swift/3-stats.svg" alt="Stats"  width="348px"/>
   </p>
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hadileey&theme=tokyonight&hide_border=true&background=0D1117" width="700px" alt="streak graph" />
+  
+  <p>
+    
+   <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/swift/4-productive-time.svg" alt="Stats"  width="348px"/>
+   <img src="https://raw.githubusercontent.com/hadileey/hadileey/main/profile-summary-card-output/swift/1-repos-per-language.svg" alt="Top Languages"  width="348"/>
+  </p>
 </div>
 
 
